@@ -7,7 +7,6 @@ The official implementation of the paper ["A unified uncertainty-informed approa
 ![The risk analysis flowchart](Risk-analysis-flowchart.png)
 
 To install requirements:
-
 ```setup
 pip install -r requirements.txt
 ```
