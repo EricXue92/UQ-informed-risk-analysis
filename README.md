@@ -5,4 +5,4 @@ The official implementation of the paper ["Continuous Optimization for Construct
 
 
 &nbsp;
-![The PIVEN schematic architecture](workflow.jpg)
+![The PIVEN schematic architecture](RFF-networks.pdf)
