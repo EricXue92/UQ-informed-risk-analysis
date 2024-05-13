@@ -5,7 +5,8 @@ The official implementation of the paper ["Continuous Optimization for Construct
 
 
 &nbsp;
-![The PIVEN schematic architecture](RFF-networks.png)
+![The RFF-networks](RFF-networks.png)
+![The risk analysis flowchart](Risk-analysis-flowchart.png)
 
 ## Requirements
 * numpy==1.24.3
